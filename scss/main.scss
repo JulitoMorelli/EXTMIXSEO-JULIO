@@ -1,0 +1,13 @@
+* {margin: 0;
+padding: 0;}
+
+@import './variables/colores';
+@import './variables/tipografia';
+@import './variables/extend';
+@import './variables/medias';
+
+@import './secciones/header';
+@import './secciones/seccion';
+@import './secciones/footer';
+
+
