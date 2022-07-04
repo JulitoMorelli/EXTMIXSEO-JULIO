@@ -139,6 +139,7 @@ a {
 
 .img2 {
     border: 4px solid $tituloGrande;
+    
 }
 
 
@@ -264,7 +265,7 @@ img {
     height: 300px;
     display: flex;
     flex-direction: row;
-    margin: 15px;
+    
 
 }
 
@@ -344,7 +345,5 @@ svg:hover {
 .mixin {
     @include fontStyle($footerText, $colorSecundario);
 }
-
-
 
 
